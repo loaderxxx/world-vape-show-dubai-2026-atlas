@@ -7,9 +7,19 @@ A neutral reference for understanding the event's published exhibitor landscape.
 
 ### Start here
 
-- [Exhibitor data](data/exhibitors.json): all **138 live website entries**, including stand and available organizer profile.
+- [Field brief](reports/field-brief.md): the important discrepancies at a glance.
+- [Exhibitor data](data/exhibitors.json) · [CSV](data/exhibitors.csv): **140 research records**, comprising all 138 live website entries and 2 catalogue-only entries.
 - [Source reconciliation](reports/source-reconciliation.md): differences between the website and the printed catalogue.
-- Company-level research and an evidence-quality cross-analysis are in progress. Do not interpret an unfinished profile as a negative finding.
+- [Cross-analysis](reports/cross-analysis.md): identity ambiguity, research coverage, activity differences and evidence limitations.
+
+### Company profiles
+
+- [AAOK–FLAVORIQ](profiles/01-aaok-flavoriq.md) · 46 entries
+- [Foom–Nysa Pouches](profiles/02-foom-nysa.md) · 46 entries
+- [Oplus–ZINWI](profiles/03-oplus-zinwi.md) · 46 entries
+- [Catalogue-only names](profiles/04-catalogue-only.md) · A-Sense and FeelmixX
+
+**First-level research is complete for every entry.** Six records remain listing-only. Others range from self-descriptions to corporate/regulatory records, with individual caveats. This is not a completed legal-entity or compliance audit.
 
 ### Snapshot at a glance
 
@@ -26,7 +36,7 @@ A neutral reference for understanding the event's published exhibitor landscape.
 
 ### What is verified
 
-The current website was re-read and compared with the 9 November snapshot: names, stands and profile URLs are unchanged. Catalogue differences are retained rather than silently resolved. Company descriptions will be source-linked, concise and explicitly qualified when based on self-description or uncertain identity matching.
+The current website was re-read and compared with the 9 November snapshot: names, stands and profile URLs are unchanged. Catalogue differences are retained rather than silently resolved. Company descriptions are source-linked, concise and explicitly qualified when based on self-description or uncertain identity matching.
 
 ### Important navigation discrepancy
 
