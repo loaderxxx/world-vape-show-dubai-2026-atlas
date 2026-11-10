@@ -1,0 +1,47 @@
+{
+  "pdf_count": 138,
+  "pdf_only": [
+    {
+      "name": "A-Sense",
+      "stand": "2060",
+      "pdf_page": 27,
+      "printed_page": 25
+    },
+    {
+      "name": "FeelmixX",
+      "stand": "2150",
+      "pdf_page": 27,
+      "printed_page": 25
+    }
+  ],
+  "web_only": [
+    {
+      "name": "Fox Electronics",
+      "stand": "3430",
+      "profile_url": "https://worldvapeshow.com/dubai/exhibitors/36667/fox-electronics",
+      "sector_ids": ""
+    },
+    {
+      "name": "THE GOLD LOTUS",
+      "stand": "2150",
+      "profile_url": "",
+      "sector_ids": ""
+    }
+  ],
+  "stand_mismatch": [
+    {
+      "web": {
+        "name": "Vape Dinner Lady",
+        "stand": "1220",
+        "profile_url": "",
+        "sector_ids": ""
+      },
+      "pdf": {
+        "name": "Vape Dinner Lady",
+        "stand": "The Pavilion",
+        "pdf_page": 29,
+        "printed_page": 27
+      }
+    }
+  ]
+}
