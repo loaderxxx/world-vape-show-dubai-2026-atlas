@@ -1,9 +1,23 @@
 # World Vape Show Dubai 2026
-## Independent, source-linked exhibitor atlas
+## The event explained. The participants mapped. The evidence kept visible.
 
 **10–12 November 2026 · Dubai World Trade Centre · Research snapshot: 10 November 2026**
 
 A neutral reference for understanding the event's published exhibitor landscape. This project records what sources say, separates brands from legal entities, and makes uncertainty visible. It is not an official event publication, a supplier recommendation, or a product-safety assessment.
+
+### If you were not at the exhibition
+
+**[Read the Event Guide →](reports/event-guide.md)**
+
+An accessible, eight-minute introduction to what the event brings together, how its participants differ, what the announced forum covers and what the evidence can actually tell us. This is a researched guide, not an eyewitness recap or a completed post-show report.
+
+| Your question | Where to go |
+|---|---|
+| What is this event, and how should I understand it? | [Event Guide](reports/event-guide.md) |
+| Who are the participants? | [Company profiles](#company-profiles) |
+| What are the meaningful findings? | [Cross-analysis](reports/cross-analysis.md) |
+| Which sources disagree? | [Reconciliation](reports/source-reconciliation.md) |
+| Can I inspect or reuse the structured facts? | [CSV](data/exhibitors.csv) · [JSON](data/exhibitors.json) |
 
 ### Start here
 
